@@ -9,7 +9,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello " );
 
     // 2.Stwórz dwa HashSety integerów i zaimplementuj dla nich następujące działania rachunków zbiorów: suma, część wspólna,
     // różnica, suma bez części wspólnej. Wynik działania powinien trafić do trzeciego zbioru.
